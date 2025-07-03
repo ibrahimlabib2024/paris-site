@@ -1,0 +1,47 @@
+{
+  "name": "Paris Boutique Juba - Premium Beauty & Fashion Store",
+  "short_name": "Paris Boutique",
+  "description": "Premium perfumes, cosmetics, skincare, and fashion in Juba, South Sudan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#B8860B",
+  "orientation": "portrait-primary",
+  "categories": ["shopping", "beauty", "fashion"],
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/paris-boutique-storefront.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "label": "Paris Boutique Juba Storefront"
+    }
+  ]
+}
